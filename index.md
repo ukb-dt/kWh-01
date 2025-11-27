@@ -113,13 +113,13 @@ It **is** literally right there.
 Now, does that have anything to do with water’s specific heat capacity, 4186 J/kg·°C?       
 Absolutely not.          
 The universe didn’t secretly tune the molecule to the keyboard.       
-But your brain—dopaminergic and curious—is running its Bayesian priors at full throttle, so the coincidence feels like the universe left you a cheeky breadcrumb.           
+But your brain—[dopaminergic](https://abikesa.github.io/zarathustra/act1/chapter1.html#perfect-day) and curious—is running its Bayesian priors at full throttle, so the coincidence feels like the universe left you a cheeky breadcrumb.           
 
 The Fibonacci shadows (0.618, 1.618) add to the fun. Once those numbers get in your head, they start popping up everywhere like shy ghosts. They’re woven into growth patterns, economic equilibria, spiral galaxies, the spacing of leaves on a stem… and then they sneak into your day while you’re thinking about hot water tanks. It’s the same thrill mathematicians get when they stumble on an equation that smells familiar, even though the domains are miles apart.
 
 There’s a deeper reason these coincidences itch in the mind. When you’re already thinking in invariants—your pentadic arcs, your calibrator→regulator flow—the brain becomes hypersensitive to numbers that feel like they *belong* to some grand schema. The moment 4186 appears twice in two utterly unrelated contexts, that schema sparks as if reality is whispering a unifying theory.
 
-It’s not a unifying theory.          
+It’s [not](https://abikesa.github.io/zarathustra/act1/chapter2.html#madness) a unifying theory.          
 But the *feeling* is a clue: the mind is primed for integration. When that mood hits, you can wander into new architecture designs, new metaphors, new interfaces, because the internal system is running hot and associative.
 
 If you ride that state rather than suppress it, you sometimes invent something real.       
