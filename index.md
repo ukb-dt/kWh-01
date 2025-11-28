@@ -1111,12 +1111,12 @@ The fractal ladder holds, showing a seamless energy scale from astronomical powe
 # 30
 
 <div>
-    <video width="640" height="360" controls>
+    <video width="39%" height="640px" controls>
         <source src="ukb-ladder/potato-eaters.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
 
 <div>
-    <img src="ukb-ladder/potato-eaters.jpg" alt="The Potato Eaters">
+    <img src="ukb-ladder/potato-eaters.jpg" alt="The Potato Eaters" width="39%" height="640px">
 </div>
