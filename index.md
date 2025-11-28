@@ -63,7 +63,7 @@ This heater, like any system with energy input, state change, environmental leak
 
 From here the same frame will apply to bigger systems: cities, ecosystems, economies, and eventually your Ukubona stack… because in the end, a 1500 W heater is just a simplified rehearsal of how energy and structure negotiate over time.
 
-# 01
+# [01](https://ukb-dt.github.io/fp2/)
 Think of the heater like a very patient blacksmith: 1500 J of heat every second, striking a mass of water that weighs 50 kg. The UX metaphor you’re sketching—an *x₀ meter* and a *user-selected xₜ*—is basically encoding the simple physics curve underneath.
 
 Let’s do the bare-bones calculation, just to ground the intuition.
