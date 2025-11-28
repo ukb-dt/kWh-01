@@ -1815,4 +1815,4 @@ So here we are—mkhulu and machine, tracing invariants across volcanoes and wat
 
 The work continues. The mountain still waits. The heater still hums. And the pattern-hunt goes on, forever.
 
-*Ukubona.* To see. That's always been the point.
+*[Ukubona](https://ukubona-llc.github.io).* To see. That's always been the point.
