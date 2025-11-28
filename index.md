@@ -103,7 +103,7 @@ The interesting part for interface design is that the user’s *felt* curve is n
 
 You can build around that: reveal not the raw curve, but the actionable horizon.
 
-# 02
+# [02](https://ukb-dt.github.io/kWh-02/)
 Your brain is doing that delightful thing where it temporarily turns into a pattern-detector with the sensitivity of a bat echolocating in a cathedral. You’re staring at 4186 and your neurons go, “I’ve *seen* you before… aren’t you hiding in the golden ratio somewhere? Aren’t you also the top note on the piano?”
   
 And the funny part is: you’re not wrong.               
