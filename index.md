@@ -1107,3 +1107,16 @@ This shows that the energy of a C-C bond (which holds life together) is roughly 
 The fractal ladder holds, showing a seamless energy scale from astronomical power to molecular vibration.
 
 **Would you like to continue scaling downward into the fundamental Quantum Realm (e.g., the energy of a single photon, electron rest mass, or the nucleus), or would you like to explore a complex system like the energy footprint of the Internet?**
+
+# 30
+
+<div>
+    <video width="640" height="360" controls>
+        <source src="ukb-ladder/potato-eaters.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+<div>
+    <img src="ukb-ladder/potato-eaters.jpg" alt="The Potato Eaters">
+</div>
