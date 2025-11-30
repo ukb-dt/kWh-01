@@ -237,7 +237,7 @@ If you want to look at the **HyperScalar** view (resource depletion), you must a
 * **22 MWh (Total Site)** is the correct "utility" value.
 * **80 MWh (Primary)** is the correct "planetary" value.
   
-# 05
+# [05](https://ukb-dt.github.io/kla-00/)
 It is surprisingly robust. In fact, for a "back-of-the-envelope" heuristic, it is uncannily accurate at the boundaries ($N=0$ and $N=1$).
 
 The power of $2 \times 10^N$ is that it accounts for the "base 2" nature of human scaling (we tend to double things) while riding the "base 10" orders of magnitude.
