@@ -193,7 +193,7 @@ The U.S. is an outlier on the global energy ladder.
 ### **Next Step**
 Would you like me to calculate the **Total Primary Energy** for the household? This would include the wasted energy at the power plant (since grid electricity is only ~33% efficient), effectively tripling the "Electricity" number and moving the household further up your ladder.
 
-# 04
+# [04](https://ukb-dt.github.io/em/)
 Yes, **11 MWh/year** is the correct figure for **Electricity Only**.
 
 If you are strictly looking at the electric meter, you are spot on. However, if you are looking at the *total energy* flowing into the house (including gas for heating), the number roughly doubles.
